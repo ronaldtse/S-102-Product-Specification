@@ -2,4 +2,9 @@
 [appendix,obligation="informative"]
 == Portrayal Catalogue
 
-NOTE: Portrayal Catalogue currently under development.
+This is the development for the new portrayal catalogue in S-102 ed. 2.2.0 by BSH (ROHDE)
+
+== Testing
+* Chapter 1
+* Chapter 2
+* Chapter 3
