@@ -2,7 +2,11 @@
 :series: S
 :docnumber: 102
 :doctype: standard
-:edition: 2.2.0
+:edition-s100: 4.0.0
+:edition-major: 2
+:edition-minor: 2
+:edition-bugfix: 0
+:edition: {edition-major}.{edition-minor}.{edition-bugfix}
 :language: en
 :published-date: 2022-11
 :copyright-year: 2022
