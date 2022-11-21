@@ -27,6 +27,9 @@ This repository contains the source files of S-102 standards, including:
 These documents are encoded in the
 https://www.metanorma.org/author/topics/document-format/[Metanorma AsciiDoc format].
 
+=== Branch
+
+This branch contains S-102 Ed. 2.1.0
 
 == Structure
 
