@@ -2,9 +2,9 @@
 :series: S
 :docnumber: 102
 :doctype: standard
-:edition: 2.1.0
+:edition: 2.2.0
 :language: en
-:published-date: 2022-10
+:published-date: 2022-11
 :copyright-year: 2022
 :status: in-force
 :committee: hssc
