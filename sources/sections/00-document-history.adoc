@@ -92,4 +92,8 @@ Revised several internal references.
 |S-102PT
 |Edited filename for exchange catalogue to be CATALOG.XML in 11.3 and in Table 12-7.
 
+|2.2.0
+|November 2022
+|BSH (Rohde)
+|Test for the new development branch
 |===

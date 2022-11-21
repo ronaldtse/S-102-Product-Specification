@@ -393,8 +393,8 @@ This information uniquely identifies this Product Specification and provides inf
 
 *Title*:: Bathymetric Surface Product Specification
 *S-100 Version*:: 4.0.0
-*S-102 Version*:: 2.1.0
-*Date*:: October 2022
+*S-102 Version*:: 2.2.0
+*Date*:: November 2022
 
 *Language*:: English
 *Classification*:: Unclassified

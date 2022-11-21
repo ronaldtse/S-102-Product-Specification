@@ -22,14 +22,14 @@ This repository contains the source files of S-102 standards, including:
 
 * S-102 2.0.0
 * S-102 2.1.0 (current version in main branch)
-* S-102 (new version in development)
+* S-102 2.2.0 (in development)
 
 These documents are encoded in the
 https://www.metanorma.org/author/topics/document-format/[Metanorma AsciiDoc format].
 
 === Branch
 
-This branch contains S-102 Ed. 2.1.0
+This branch contains S-102 Ed. 2.2.0
 
 == Structure
 
