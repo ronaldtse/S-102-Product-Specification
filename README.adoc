@@ -21,7 +21,7 @@ https://iho.int[IHO] website.
 This repository contains the source files of S-102 standards, including:
 
 * S-102 2.0.0
-* S-102 2.1.0
+* S-102 2.1.0 (current version in main branch)
 * S-102 (new version in development)
 
 These documents are encoded in the
