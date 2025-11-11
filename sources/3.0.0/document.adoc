@@ -1,6 +1,6 @@
-= Bathymetric Surface Product Specification
+= Bathymetric Surface Product Specification For Metanorma Training
 :series: S
-:docnumber: 102
+:docnumber: 1020
 :doctype: standard
 :edition: 3.0.0
 :language: en
